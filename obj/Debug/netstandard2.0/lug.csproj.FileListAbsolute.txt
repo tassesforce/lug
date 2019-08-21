@@ -1,0 +1,9 @@
+/mnt/partage/Commun/Workspaces/lug/obj/Debug/netstandard2.0/lug.csprojAssemblyReference.cache
+/mnt/partage/Commun/Workspaces/lug/obj/Debug/netstandard2.0/lug.csproj.CoreCompileInputs.cache
+/mnt/partage/Commun/Workspaces/lug/obj/Debug/netstandard2.0/lug.AssemblyInfoInputs.cache
+/mnt/partage/Commun/Workspaces/lug/obj/Debug/netstandard2.0/lug.AssemblyInfo.cs
+/mnt/partage/Commun/Workspaces/lug/bin/Debug/netstandard2.0/lug.deps.json
+/mnt/partage/Commun/Workspaces/lug/bin/Debug/netstandard2.0/lug.dll
+/mnt/partage/Commun/Workspaces/lug/bin/Debug/netstandard2.0/lug.pdb
+/mnt/partage/Commun/Workspaces/lug/obj/Debug/netstandard2.0/lug.dll
+/mnt/partage/Commun/Workspaces/lug/obj/Debug/netstandard2.0/lug.pdb
